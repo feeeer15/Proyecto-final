@@ -1,5 +1,6 @@
 # Proyecto-final
-El programa puede llevar a cabo un inicio de sesión en donde si no se tiene
+Este programa de gestión/monitoreo de finanzas puede llevar a cabo un inicio 
+de sesión en donde si no se tiene
 una cuenta registrada, te permite hacer un sistema de registro que 
 recopila distintos datos utiles.
 Una vez dentro del programa encontramos un menú principal con las siguientes 
