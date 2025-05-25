@@ -12,7 +12,7 @@ un resumen de los ingresos donde estos aparecen según la categoría que se le f
 asignado con anterioridad. 
 Pasando al sistema de gastos, es básicamente lo mismo, solo que en vez de registrar
 ingresos se registran gastos, los cuales de la misma manera cuentan con una clasificación
-para que al momento de revisar el resumen de estos sea más claro a donde pertene.
+para que al momento de revisar el resumen de estos sea más claro a donde proviene.
 El apartado de control es muy simple, muestra una comparación entre los ingresos totales
 y los gastos totales, ademas de que explica por area como es que fueron implementados y
 en que fecha.
