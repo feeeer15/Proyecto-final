@@ -21,3 +21,5 @@ ventana, si todo está en orden el mensaje que aparecerá será algo similar a e
 "Todo en orden, sigue así".
 Por ultimo, el apartado de ahorro cuenta con un formato muy parecido al de los ingresos
 y gastos, registras tu ahorro, lo clasificas, despues puedes modificarlo o visualizarlo.
+
+Disfruta de la app!
