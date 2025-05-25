@@ -1,6 +1,6 @@
 # Proyecto-final
 El programa puede llevar a cabo un inicio de sesión en donde si no se tiene
-una cuenta dentro del sistema te permite hacer un sistema de registro que 
+una cuenta registrada, te permite hacer un sistema de registro que 
 recopila distintos datos utiles.
 Una vez dentro del programa encontramos un menú principal con las siguientes 
 opciones: Ingresos, Gastos, Control de Gastos y Ahorro, en cada opción 
